@@ -12,10 +12,12 @@
     <!--Replace with your tailwind.css once created-->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" />
     <!-- Define your gradient here - use online tools to find a gradient matching your branding-->
+    
     <style>
-        .gradient {
-            background: linear-gradient(90deg, #5ebfcc 0%, #3a73c9 100%);
+        .gradient,#contactenos {
+            background: linear-gradient(90deg, #85b0b6 0%, #3a8fc7 100%);
         }
+        
     </style>
 </head>
 
@@ -51,18 +53,18 @@
                 id="nav-content">
                 <ul class="list-reset lg:flex justify-end flex-1 items-center">
                     <li class="mr-3">
-                        <a class="inline-block py-2 px-4 text-black font-bold no-underline" href={{ route('inicio') }}">Inicio</a>
+                        <a class="inline-block py-2 px-4 text-black font-bold no-underline" href="{{ route('inicioDeSesion') }}">Entrar</a>
                     </li>
                     <li class="mr-3">
                         <a class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4"
-                            href="#">Ayudas</a>
+                            href="{{route('inicio')}}#ayudas">Ayudas</a>
                     </li>
                     <li class="mr-3">
                         <a class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4"
-                            href="#">Contactenos</a>
+                            href="{{route('inicio')}}#contactenos">Contactenos</a>
                     </li>
                 </ul>
-                <a href="{{ route('RegisterEvaluation') }}"><button
+                <a href="{{ route('evaluationview') }}"><button
                         class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full mt-4 lg:mt-0 py-4 px-8 shadow opacity-75 focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
                         EVALUARTE
                     </button></a>
@@ -86,7 +88,7 @@
       
               if (scrollpos > 10) {
                 header.classList.add("bg-white");
-                navaction.classList.remove("bg-white");
+                
                 navaction.classList.add("gradient");
                 navaction.classList.remove("text-gray-800");
                 navaction.classList.add("text-black");
@@ -99,7 +101,7 @@
                 navcontent.classList.remove("bg-gray-100");
                 navcontent.classList.add("bg-black");
               } else {
-                header.classList.remove("bg-white");
+               
                 navaction.classList.remove("gradient");
                 navaction.classList.add("bg-black");
                 navaction.classList.remove("text-white");

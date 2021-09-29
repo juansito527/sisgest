@@ -4,7 +4,6 @@
 @endsection
 @section('content')
 
-
 <!--Hero-->
 <div class="pt-24">
   <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
@@ -99,7 +98,7 @@
 </section>
 
 
-<section class="bg-white border-b py-8">
+<section class="bg-white border-b py-8" id="ayudas">
   <div class="container mx-auto flex flex-wrap pt-4 pb-12">
     <h1 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
       Ayudas
@@ -211,11 +210,11 @@
 </svg>
 
 <!--Footer-->
-<footer class="bg-white">
+<footer class="bg-white text-white" id="contactenos">
   <div class="container mx-auto px-8">
     <div class="w-full flex flex-col md:flex-row py-6">
       <div class="flex-1 mb-6 text-black">
-        <a class="text-gray-600 no-underline hover:no-underline font-bold text-2xl lg:text-4xl" href="#">
+        <a class="text-white no-underline hover:no-underline font-bold text-2xl lg:text-4xl" href="#">
           <!--Icon from: http://www.potlabicons.com/ -->
           <svg class="h-8 fill-current inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.005 512.005">
             <rect fill="#2a2a31" x="16.539" y="425.626" width="479.767" height="50.502"
@@ -228,48 +227,47 @@
       </div>
 
       <div class="flex-1">
-        <p class="uppercase text-gray-500 md:mb-6">Legal</p>
+        <p class="uppercase text-white md:mb-6 font-bold">Legal</p>
         <ul class="list-reset mb-6">
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Terms</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">Terms</a>
           </li>
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Privacy</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">Privacy</a>
           </li>
         </ul>
       </div>
       <div class="flex-1">
-        <p class="uppercase text-gray-500 md:mb-6">Social</p>
+        <p class="uppercase text-white md:mb-6 font-bold">Social</p>
         <ul class="list-reset mb-6">
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Facebook</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">Facebook</a>
           </li>
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Linkedin</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">Linkedin</a>
           </li>
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Twitter</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">Twitter</a>
           </li>
         </ul>
       </div>
       <div class="flex-1">
-        <p class="uppercase text-gray-500 md:mb-6">Company</p>
+        <p class="uppercase text-white md:mb-6 font-bold">Company</p>
         <ul class="list-reset mb-6">
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Official Blog</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">Official Blog</a>
           </li>
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">About Us</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">About Us</a>
           </li>
           <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-            <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Contact</a>
+            <a href="#" class="no-underline hover:underline text-white hover:text-pink-500">Contact</a>
           </li>
         </ul>
       </div>
     </div>
   </div>
-  <a href="https://www.freepik.com/free-photos-vectors/background" class="text-gray-500">Background vector created by
-    freepik - www.freepik.com</a>
+  
 </footer>
 @endsection
 @section('scripts')
