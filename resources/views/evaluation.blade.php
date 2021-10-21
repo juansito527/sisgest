@@ -26,7 +26,7 @@ class=" w-full z-30 top-0 text-white bg-white"
     {{-- fin titulo e imagen --}}
 
     {{-- TODO EL CUESTIONARIO --}}
-    <div class="col-span-8  md:col-span-6 md:col-start-2 lg:col-end-8 mt-5 m-auto w-full text-center shadow-2xl" id="scPlaneacion">
+    <div class="col-span-8 mb-5 md:col-span-6 md:col-start-2 lg:col-end-8 mt-5 m-auto w-full text-center shadow-2xl" id="scPlaneacion">
         {{-- tiulo antes del cuestionario --}}
         <label class="border-b text-4xl font-bold">RESOLUCIÓN 0312 DE 2019</label>
         <p class="my-2 font-bold ">ESTÁNDARES MÍNIMOS DEL SISTEMA DE GESTIÓN DE LA SEGURIDAD Y SALUD PARA EMPLEADORES Y
@@ -43,7 +43,7 @@ class=" w-full z-30 top-0 text-white bg-white"
         {{-- FORMULARIO --}}
         <form action="">
             <div
-                class="grid grid-cols-4 bg-white  text-black mx-5 border border-solid border-gray-400 rounded shadow-2xl pr-5 mb-5">
+                class="grid grid-cols-4 bg-white mb-5  text-black mx-5 border border-solid border-gray-400 rounded shadow-2xl pr-5 mb-5">
                 <div class="col-span-4 md:col-span-2 lg:col-span-1">
                     <p class="mt-4"><label class="font-bold text-justify text-indigo-600">Numeral</label></p>
                     <p>1.1.1</p>
@@ -119,8 +119,13 @@ class=" w-full z-30 top-0 text-white bg-white"
                 </div>
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
+            <div class="col-span-4 grid grid-cols-4 mb-5">
+                <div class="col-span-2"><button class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700">Volver</button></div>
+                <div class="col-span-2"><button class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700   ">Continuar</button></div>
+            </div>
         </form>
         {{-- FORMULARIO --}}
+        
     </div>
 
 </div>
