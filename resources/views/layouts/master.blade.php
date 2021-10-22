@@ -157,6 +157,7 @@
               return false;
             }
       </script>
+      <script src="{{asset("js/next_previous.js")}}"></script>
 </body>
 
 </html>
