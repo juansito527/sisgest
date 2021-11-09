@@ -90,9 +90,6 @@
       
               if (scrollpos > 10) {
                 header.classList.add("bg-white");
-                
-                navaction.classList.add("gradient");
-                navaction.classList.remove("text-gray-800");
                 navaction.classList.add("text-black");
                 //Use to switch toggleColour colours
                 for (var i = 0; i < toToggle.length; i++) {

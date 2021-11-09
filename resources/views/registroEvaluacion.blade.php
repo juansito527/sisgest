@@ -7,10 +7,10 @@ class=" w-full z-30 top-0 text-white bg-white"
 @endsection
 @section('content')
 <!-- component -->
-<div class="font-sans">
-    <div class="relative mt-10 min-h-screen flex flex-col sm:justify-center items-center">
-        <div class="relative max-w-sm w-full">
-            <div class="card bg-gren-800 shadow-lg  w-full h-full rounded-3xl absolute  transform -rotate-6"></div>
+<div class="grid grid-cols-4 font-sans">
+    <div class="col-span-4 relative mt-10 min-h-screen flex flex-col sm:justify-center items-center">
+        <div class="relative max-w-sm lg:max-w-2xl  w-full">
+            <div class="card bg-gray-400 shadow-lg  w-full h-full rounded-3xl absolute  transform -rotate-6"></div>
             <div class="card bg-gray-800 shadow-lg  w-full h-full rounded-3xl absolute  transform rotate-6"></div>
             <div class="relative w-full rounded-3xl  px-6 py-4 bg-gray-100 shadow-md">
                 <label for="" class="block mt-3 text-sm text-gray-700 text-center font-semibold">
@@ -145,7 +145,7 @@ class=" w-full z-30 top-0 text-white bg-white"
 
                     <div class="mt-7">
                         <button
-                            class="bg-green-600 w-full py-3 rounded-xl text-white shadow-xl hover:shadow-inner focus:outline-none transition duration-500 ease-in-out  transform hover:-translate-x hover:scale-105">
+                            class="bg-blue-600 w-full py-3 rounded-xl text-white shadow-xl hover:shadow-inner focus:outline-none transition duration-500 ease-in-out  transform hover:-translate-x hover:scale-105">
                             Comenzar
                         </button>
                     </div>
