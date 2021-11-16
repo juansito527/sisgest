@@ -16,6 +16,17 @@ Route::get('/', function () {
 Route::get('Login',[LoginController::class,'GoLogin'])->name('inicioDeSesion');
 /* ruta para el registro de la evaluación */
 Route::get('RegistroEvaluacion',[RegistroEvaluacionController::class,'irAlRegistro'])->name('RegisterEvaluation');
-/* ruta para la vista evaluación */
-Route::get('evaluacion',[EvaluationController::class,'GoEvaluation'])->name('evaluationview');
 
+
+
+
+
+/* Rutas evaluacion */
+/* Route::get('evaluacion',[EvaluationController::class,'GoEvaluation'])->name('evaluationview'); */
+
+Route::group(['prefix' => 'evaluacion'], function() {
+    
+    Route::get('/', [EvaluationController::class,'GoEvaluation'])->name('evaluationview');
+    
+    Route::get('hacer', [EvaluationController::class,'SectionHacer'])->name("hacer");
+});

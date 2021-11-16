@@ -9,4 +9,11 @@ class EvaluationController extends Controller
     public function GoEvaluation(){
         return view('evaluationCUestions/Planear/evaluationPlanear');
     }
+
+    public function SectionHacer(){
+        return view('evaluationCUestions/hacer/evaluationhacer');
+    }
+    
+
+
 }

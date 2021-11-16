@@ -74,8 +74,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -159,8 +159,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -245,8 +245,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -344,8 +344,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -429,8 +429,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -520,8 +520,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -605,8 +605,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -694,8 +694,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.5%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -782,8 +782,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(2.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -883,8 +883,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(2.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -970,8 +970,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(2.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1071,8 +1071,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(1.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1160,8 +1160,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(1.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1248,8 +1248,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(1.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1336,8 +1336,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(2.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1421,12 +1421,12 @@ class=" w-full z-30 top-0 text-white bg-white"
                 </div>
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
                 <div class="col-span-4 grid grid-cols-3   m-auto text-black  border  rounded shadow-2xl mt-4 text-center mb-5 ml-4">
-                    <div class="col-span-3  lg:col-span-1   ">
+                    <div class="col-span-3  lg:col-span-1">
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(2.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1515,8 +1515,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(1.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1608,8 +1608,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(2.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1695,8 +1695,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(1.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1782,8 +1782,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(1.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1868,8 +1868,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(2.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -1925,14 +1925,14 @@ class=" w-full z-30 top-0 text-white bg-white"
             <div class="bg-white  text-black mx-5 border-2 border-solid border-white rounded mt-5 ">
                 <p class="mt-5"><label class="font-bold  text-2xl text-indigo-600 plTitle">I. PLANEAR</label></p><br>
                 <label class="font-medium italic">RECURSOS <label class="text-indigo-600">(10%)</label> </label>
-                <p class="font-medium text-1xl mt-2 p-2 parrafo">Gestión del cambio (1%)<label class="text-indigo-600">(1%)</label>
+                <p class="font-medium text-1xl mt-2 p-2 parrafo">Gestión del cambio<label class="text-indigo-600">(1%)</label>
                 </p>
             </div>
             <div
                 class="grid grid-cols-4 bg-white mb-5  text-black mx-5 border border-solid border-gray-400 rounded shadow-2xl pr-5 mb-5">
                 <div class="col-span-4 md:col-span-2 lg:col-span-1">
                     <p class="mt-4"><label class="font-bold text-justify text-indigo-600">Numeral</label></p>
-                    <p>2.10.1</p>
+                    <p>2.11.1</p>
                 </div>
                 <div class="col-span-4 md:col-span-2 lg:col-span-1 md:mt-0 mt-5">
                     <p class="mt-4"><label class="font-bold text-justify text-indigo-600">Item</label></p>
@@ -1955,8 +1955,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                         <p class="mt-5"><label class="font-bold text-center text-indigo-600">Selecciona porfavor la
                                 calificacion</label></p>
                                 <div class="text-center mt-5">
-                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(0.05%)</label><br>
-                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300">(0.5%)</label><br>
+                                    <input type="radio" class="ml-4 inline-block"> <p class="inline-block">Cumple Totalmente</p> <label class="text-red-300 ml-6">(1.0%)</label><br>
+                                    <input type="radio" class="m-2 ml-4">No cumple<label class="text-red-300"></label><br>
                                     <input type="radio" class="m-2 ml-4">No aplica<br>
                                 </div>   
                     </div>
@@ -2002,7 +2002,7 @@ class=" w-full z-30 top-0 text-white bg-white"
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5">
                 <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(20);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot2"onclick="currentSlide(22);">Continuar</button></div>
+                <div class="col-span-2"><a href="{{route("hacer")}}"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 ">Continuar</button></a></div>
             </div>
         </form>
         {{-- FORMULARIO --}}
