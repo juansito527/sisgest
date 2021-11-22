@@ -29,4 +29,5 @@ Route::group(['prefix' => 'evaluacion'], function() {
     Route::get('/', [EvaluationController::class,'GoEvaluation'])->name('evaluationview');
     Route::get('hacer', [EvaluationController::class,'SectionHacer'])->name("hacer");
     Route::get('verificar', [EvaluationController::class,'SectionVerficar'])->name("verificar");
+    Route::get('actuar', [EvaluationController::class,'SectionActuar'])->name("actuar");
 });

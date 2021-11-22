@@ -21,6 +21,10 @@ class EvaluationController extends Controller
     public function SectionVerficar(){
         return view('evaluationCUestions/verificar/evaluationVerificar');
     }
+
+    public function SectionActuar(){
+        return view('evaluationCUestions/Actuar/evaluationActuar');
+    }
     
 
 

@@ -116,7 +116,7 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700">Volver</button></div>
+                <div class="col-span-2"><a href="{{route('evaluationview')}}"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700">Volver</button></a></div>
                 <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(2);">Continuar</button></div>
             </div>
         </form>
@@ -2003,8 +2003,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(21);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(23);">Continuar</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(22);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(24);">Continuar</button></div>
             </div>
         </form>
 
@@ -2088,8 +2088,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(22);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(24);">Continuar</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(23);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(25);">Continuar</button></div>
             </div>
         </form>
 
@@ -2172,8 +2172,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(23);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(25);">Continuar</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(24);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(26);">Continuar</button></div>
             </div>
         </form>
 
@@ -2260,8 +2260,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(24);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(26);">Continuar</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(25);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(27);">Continuar</button></div>
             </div>
         </form>
 
@@ -2344,8 +2344,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(25);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(27);">Continuar</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(26);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(28);">Continuar</button></div>
             </div>
         </form>
 
@@ -2436,8 +2436,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(26);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(28);">Continuar</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(27);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(29);">Continuar</button></div>
             </div>
         </form>
 
@@ -2528,8 +2528,8 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(27);">Volver</button></div>
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(29);">Continuar</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(28);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 btnDot" onclick="currentSlide(30);">Continuar</button></div>
             </div>
         </form>
 
@@ -2612,7 +2612,7 @@ class=" w-full z-30 top-0 text-white bg-white"
                 {{-- CAJON DE PREGUNTAS Y RESPUESTAS --}}
             </div>
             <div class="col-span-4 grid grid-cols-4 mb-5 m-auto">
-                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(27);">Volver</button></div>
+                <div class="col-span-2"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700" onclick="currentSlide(29);">Volver</button></div>
                 <div class="col-span-2"><a href="{{route('verificar')}}"><button type="button" class="font-bold rounded m-4 bg-blue-500 text-bold border border-blue-500 p-3 w-28  ring-4 ring-blue-500 hover:bg-blue-700 ">Continuar</button></a></div>
             </div>
         </form>
